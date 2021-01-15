@@ -8,7 +8,7 @@
 
 <ul>
     <c:forEach var="f" items="${films}">
-        <li> ${f.title} </li>
+        <li> ${f.title}</li>
     </c:forEach>
 </ul>
 
